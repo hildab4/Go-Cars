@@ -1,10 +1,5 @@
 # Go Cars
 
-# Correcciones
-* -> Se agrega la estructura lineal y el árbol.
-* -> Se agrega la escritura y lectura de archivos, y la consulta de datos en las estructuras.
-* -> Se agrega la complejidad temporal de las funciones.
-
 # Programa para conocer las ventas de cada modelo de carro
 El programa despliega un menú para que el usuario pueda elegir la opción que quiera llevar a cabo, es un programa para manejar las ventas de ciertos modelos de carros. El usuario puede desplegar la lista en orden alfabético, ordenar los modelos por ventas de menor a mayor, actualizar el valor de ventas por modelo, y buscar ventas por modelo.
 
@@ -53,3 +48,8 @@ El programa despliega un menú para que el usuario pueda elegir la opción que q
 * findCarro -> Recorre el árbol hasta encontrar el valor deseado en los nodos, en el peor de los casos se tendría que recorrer todo el árbol, por lo que la complejidad temporal es de O(n).
 * removeCarros -> Recorre el árbol hasta eliminar todos los nodos, depende de la cantidad de nodos existentes en el árbol; por lo que la complejidad temporal es de O(n).
 * addCarro -> Recorre el árbol hasta encontrar la posición en donde se almacenará el objeto, en el peor de los casos tendría que recorrer todo el árbol; por lo que la complejidad temporal es de O(n).
+
+# Correcciones
+* -> Se agrega la estructura lineal y el árbol.
+* -> Se agrega la escritura y lectura de archivos, y la consulta de datos en las estructuras.
+* -> Se agrega la complejidad temporal de las funciones.
